@@ -1,0 +1,28 @@
+{
+  "name": "handlefiles",
+  "version": "0.0.1",
+  "description": "Simple and eloquent multi-file support for handlebars.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boboman13/handlefiles"
+  },
+  "keywords": [
+    "handlebars",
+    "multi-file",
+    "handlefiles"
+  ],
+  "author": "boboman13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boboman13/handlefiles/issues"
+  },
+  "homepage": "https://github.com/boboman13/handlefiles",
+  "dependencies": {
+    "async": "^0.9.0",
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
