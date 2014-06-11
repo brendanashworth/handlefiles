@@ -11,7 +11,7 @@ var object = {
 	pageName: "My Custom Page Name"
 };
 
-var output = handlefiles.parseFiles(files, object, function(err, output) {
+handlefiles.parseFiles(files, object, function(err, output) {
 	if (err) {
 		console.log('Error occurred: ' + err);
 		return;
